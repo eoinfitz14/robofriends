@@ -1,5 +1,6 @@
 import React from 'react';
  
+// component
 const SearchBox = ({ searchChange }) => {
 
     return (
